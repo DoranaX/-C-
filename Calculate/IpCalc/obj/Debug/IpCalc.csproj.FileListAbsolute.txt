@@ -1,0 +1,142 @@
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\Student\Desktop\123\пз 17 оаип\IpCalc\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\App.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\App.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\App.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.1 — копия\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\App.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\App.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\AboutForm.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\HistoryUpdateForm.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\MessageForm.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\AboutForm.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\HistoryUpdateForm.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_0.2 — копия\IpCalc\obj\Debug\MessageForm.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\AboutForm.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\HistoryUpdateForm.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\MessageForm.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\App.g.cs
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\AboutForm.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\HistoryUpdateForm.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\MessageForm.baml
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\lgleo\OneDrive\Рабочий стол\IpCalc_ver_pre_relesed\IpCalc\obj\Debug\IpCalc.pdb
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\bin\Debug\IpCalc.exe.config
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\bin\Debug\IpCalc.exe
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\bin\Debug\IpCalc.pdb
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\MessageForm.g.cs
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc_MarkupCompile.cache
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc_MarkupCompile.lref
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\MessageForm.baml
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.g.resources
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.exe
+C:\Users\Student\source\repos\IpCalc_relesed\IpCalc\obj\Debug\IpCalc.pdb
